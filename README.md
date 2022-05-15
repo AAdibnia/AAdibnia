@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Adibnia, @AAdibnia
-- 👀 I’m interested in data analysis and visualization
-- 🌱 I’m currently learning NLP
+- 👀 I’m interested in data analysis and visualization.
+- 🌱 I’m currently learning NLP.
 - 📫 You can reach me via my email, ali.adibnia@gmail.com
 
 <!---
