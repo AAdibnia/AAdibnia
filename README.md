@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Adibnia, @AAdibnia
-- 👀 I'm interested in product management and creating new things.
+- 👀 I'm interested in creating new things.
 - 📫 You can reach me via my email, ali.adibnia@gmail.com
 
 <!---
