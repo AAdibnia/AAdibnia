@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Adibnia, @AAdibnia
-- 👀 I'm interested in creating new things.
+- 👀 I'm interested in creating new things. And now AI allows me to do this.
 - 📫 You can reach me via my email, ali.adibnia@gmail.com
 
 <!---
